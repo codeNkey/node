@@ -6,4 +6,3 @@ module.exports = {
     even,
     odd
 }
-error
